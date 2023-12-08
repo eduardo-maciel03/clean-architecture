@@ -1,0 +1,17 @@
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.deps.json
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.dll
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.pdb
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\AppCore.dll
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\AppUseCases.dll
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\AppCore.pdb
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\bin\Debug\net8.0-windows10.0.19041.0\AppUseCases.pdb
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.csproj.AssemblyReference.cache
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.AssemblyInfoInputs.cache
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.AssemblyInfo.cs
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.csproj.CoreCompileInputs.cache
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.csproj.CopyComplete
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.dll
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\refint\Plugins.DataStore.API.dll
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\Plugins.DataStore.API.pdb
+D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\obj\Debug\net8.0-windows10.0.19041.0\ref\Plugins.DataStore.API.dll

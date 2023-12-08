@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMaui.Views.UsersView"
+             
+             xmlns:viewModel="clr-namespace:AppMaui.ViewModels"
+             x:DataType="viewModel:UsersViewModel"
+             
+             xmlns:models="clr-namespace:AppCore.Models;assembly=AppCore"
+             
+             Title="Lista de Usuários">
+
+    <RefreshView>
+
+        <CollectionView ItemsSource="{Binding ListUsers}">
+
+            <CollectionView.Header>
+                <SearchBar Placeholder="Localizar..."
+                           Text="{Binding FilterText}"
+                           Margin="20,10,20,15"/>
+            </CollectionView.Header>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:Users">
+                    <Frame CornerRadius="20" HasShadow="True"
+                           Margin="20,10,20,10">
+
+                        <Grid RowDefinitions="*,*,*"
+                              ColumnDefinitions="*,50,50"
+                              ColumnSpacing="5">
+
+                            <HorizontalStackLayout Grid.Row="0" Grid.Column="0" Spacing="5">
+                                <Label Text="ID:"/>
+                                <Label Text="{Binding Id}"/>
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Grid.Row="1" Grid.Column="0" Spacing="5">
+                                <Label Text="Nome:"/>
+                                <Label Text="{Binding Name}"/>
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Grid.Row="2" Grid.Column="0" Spacing="5">
+                                <Label Text="Telefone:"/>
+                                <Label Text="{Binding Phone}"/>
+                            </HorizontalStackLayout>
+
+                            <Button ImageSource="edit.png"
+                                    BackgroundColor="LightGrey"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewModel:UsersViewModel}}, Path=UpdateUserCommand}"
+                                    CommandParameter="{Binding .}"
+                                    Grid.RowSpan="3"
+                                    Grid.Column="1"/>
+                            <Button ImageSource="delete.png"
+                                    BackgroundColor="Red"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewModel:UsersViewModel}}, Path=DeleteUserCommand}"
+                                    CommandParameter="{Binding .}"
+                                    Grid.RowSpan="3"
+                                    Grid.Column="2"/>
+
+                        </Grid>
+
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.Footer>
+                <Button Text="Cadastrar Usuário"
+                        Command="{Binding AddUserCommand}"
+                        Margin="30,15,30,15"/>
+            </CollectionView.Footer>
+
+        </CollectionView>
+
+    </RefreshView>
+
+</ContentPage>

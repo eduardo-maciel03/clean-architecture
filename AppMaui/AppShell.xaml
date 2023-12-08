@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AppMaui.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:AppMaui"
+    
+    xmlns:views="clr-namespace:AppMaui.Views"
+    
+    xmlns:viewModel="clr-namespace:AppMaui.ShellModels"
+    x:DataType="viewModel:AppShellViewModel"
+    
+    Shell.FlyoutBehavior="Flyout"
+    Title="AppMaui">
+
+    <ShellContent 
+        Shell.FlyoutBehavior="Disabled"
+        FlyoutItemIsVisible="False"
+        Title="Login"
+        ContentTemplate="{DataTemplate views:LoginView}"
+        Route="LoginView"/>
+
+    <ShellContent 
+        Shell.FlyoutBehavior="Disabled"
+        FlyoutItemIsVisible="False"
+        Title="Adicionar"
+        ContentTemplate="{DataTemplate views:AddView}"
+        Route="AddView"/>
+
+    <ShellContent 
+        Shell.FlyoutBehavior="Disabled"
+        FlyoutItemIsVisible="False"
+        Title="Editar"
+        ContentTemplate="{DataTemplate views:EditView}"
+        Route="EditView"/>
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent 
+            Title="Home"
+            ContentTemplate="{DataTemplate views:HomeView}"
+            Route="HomeView"/>
+
+        <ShellContent
+            Title="Usuários"
+            ContentTemplate="{DataTemplate views:UsersView}"
+            Route="UsersView" />
+    </FlyoutItem>
+
+    <Shell.FlyoutFooter>
+        <Button Margin="15"
+                Text="Logout"
+                Command="{Binding LogoutCommand}"/>
+    </Shell.FlyoutFooter>
+
+</Shell>

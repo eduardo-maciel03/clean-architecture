@@ -1,0 +1,15 @@
+D:\Projetos\AppMaui\AppUseCases\bin\Debug\net8.0-windows10.0.19041.0\AppUseCases.deps.json
+D:\Projetos\AppMaui\AppUseCases\bin\Debug\net8.0-windows10.0.19041.0\AppUseCases.dll
+D:\Projetos\AppMaui\AppUseCases\bin\Debug\net8.0-windows10.0.19041.0\AppUseCases.pdb
+D:\Projetos\AppMaui\AppUseCases\bin\Debug\net8.0-windows10.0.19041.0\AppCore.dll
+D:\Projetos\AppMaui\AppUseCases\bin\Debug\net8.0-windows10.0.19041.0\AppCore.pdb
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.csproj.AssemblyReference.cache
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.AssemblyInfoInputs.cache
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.AssemblyInfo.cs
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.csproj.CoreCompileInputs.cache
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.csproj.CopyComplete
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.dll
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\refint\AppUseCases.dll
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.pdb
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\ref\AppUseCases.dll

@@ -1,0 +1,12 @@
+D:\Projetos\AppMaui\AppCore\bin\Debug\net8.0-windows10.0.19041.0\AppCore.deps.json
+D:\Projetos\AppMaui\AppCore\bin\Debug\net8.0-windows10.0.19041.0\AppCore.dll
+D:\Projetos\AppMaui\AppCore\bin\Debug\net8.0-windows10.0.19041.0\AppCore.pdb
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.csproj.AssemblyReference.cache
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.AssemblyInfoInputs.cache
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.AssemblyInfo.cs
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.csproj.CoreCompileInputs.cache
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.dll
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\refint\AppCore.dll
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\AppCore.pdb
+D:\Projetos\AppMaui\AppCore\obj\Debug\net8.0-windows10.0.19041.0\ref\AppCore.dll
