@@ -13,6 +13,7 @@ namespace AppMaui.ShellModels
             if(confirm) 
             {
                 await Shell.Current.GoToAsync($"//{nameof(LoginView)}");
+                Preferences.Default.Remove(Constants.RememberMe);
             }
         }
     

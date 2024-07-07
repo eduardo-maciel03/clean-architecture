@@ -2,6 +2,6 @@
 {
     public class Constants
     {
-        public const string WebApiBaseUrl = "https://localhost:7153/api/User/";
+        public const string WebApiBaseUrl = "https://localhost:7016/api/User/";
     }
 }

@@ -48,6 +48,8 @@ namespace AppMaui.ViewModels
 
             await _viewUsersUseCases.ExecuteAsyncAdd(newUser);
             await Shell.Current.GoToAsync($"//{nameof(UsersView)}");
+            Username = null;
+            Phone = null;
         }
 
         [RelayCommand]

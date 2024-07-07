@@ -11,9 +11,11 @@
     x:DataType="viewModel:AppShellViewModel"
     
     Shell.FlyoutBehavior="Flyout"
-    Title="AppMaui">
+    Title="AppMaui"
+    x:Name="StorageOptionsShell">
 
     <ShellContent 
+        x:Name="LoginViewItem"
         Shell.FlyoutBehavior="Disabled"
         FlyoutItemIsVisible="False"
         Title="Login"
@@ -36,6 +38,7 @@
 
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent 
+            x:Name="HomeViewItem"
             Title="Home"
             ContentTemplate="{DataTemplate views:HomeView}"
             Route="HomeView"/>

@@ -195,3 +195,16 @@ D:\Projetos\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resiz
 D:\Projetos\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-150.png
 D:\Projetos\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-200.png
 D:\Projetos\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-400.png
+D:\Projetos\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AppMaui.sourcelink.json
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AppMaui.csproj.AssemblyReference.cache
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Projetos\MAUI\AppMaui\AppMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AppMaui.GeneratedMSBuildEditorConfig.editorconfig

@@ -22,6 +22,11 @@
         <Label Text="Nome:"/>
         <Entry Text="{Binding Username}"/>
 
+        <HorizontalStackLayout>
+            <CheckBox IsChecked="{Binding RememberMe}"/>
+            <Label Text="Lembrar-me" Margin="0,10,0,0"/>
+        </HorizontalStackLayout>
+
         <Button Text="Login"
                 Command="{Binding LoginCommand}"/>
 

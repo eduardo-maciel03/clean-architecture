@@ -13,3 +13,4 @@ D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases
 D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\refint\AppUseCases.dll
 D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.pdb
 D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\ref\AppUseCases.dll
+D:\Projetos\AppMaui\AppUseCases\obj\Debug\net8.0-windows10.0.19041.0\AppUseCases.sourcelink.json

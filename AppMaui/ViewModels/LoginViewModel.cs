@@ -12,6 +12,9 @@ namespace AppMaui.ViewModels
         [ObservableProperty]
         string username;
 
+        [ObservableProperty]
+        bool rememberMe;
+
         public LoginViewModel(IViewUsersUseCases viewUsersUseCases)
         {
             _viewUsersUseCases = viewUsersUseCases;
@@ -28,7 +31,9 @@ namespace AppMaui.ViewModels
                 return;
             }
 
-            foreach(var user in users)
+            await UserPreferences();
+
+            foreach (var user in users)
             {
                 if(string.Equals(Username, user.Name, StringComparison.OrdinalIgnoreCase))
                 {
@@ -38,6 +43,16 @@ namespace AppMaui.ViewModels
             }
             
             await App.Current.MainPage.DisplayAlert("Aviso", "Usuário não existe!", "OK");
+        }
+
+        private async Task UserPreferences()
+        {
+            if (RememberMe)
+            {
+                Preferences.Default.Set(Constants.RememberMe, RememberMe);
+
+                await SecureStorage.Default.SetAsync(Constants.Username, Username);
+            }
         }
 
     }

@@ -12,59 +12,59 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppMaui
-build_property.ProjectDir = D:\Projetos\AppMaui\AppMaui\
+build_property.ProjectDir = D:\Projetos\MAUI\AppMaui\AppMaui\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[D:/Projetos/AppMaui/AppMaui/App.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Projetos/AppMaui/AppMaui/AppShell.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Resources/Styles/Colors.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Resources/Styles/Styles.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Views/AddView.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Views/AddView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Views.AddView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\AddView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AddView.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Views/EditView.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Views/EditView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Views.EditView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\EditView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\EditView.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Views/HomeView.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Views/HomeView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Views.HomeView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\HomeView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\HomeView.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Views/LoginView.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Views/LoginView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Views.LoginView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LoginView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\LoginView.xaml
 
-[D:/Projetos/AppMaui/AppMaui/Views/UsersView.xaml]
+[D:/Projetos/MAUI/AppMaui/AppMaui/Views/UsersView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppMaui.Views.UsersView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\UsersView.xaml

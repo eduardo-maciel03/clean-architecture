@@ -8,6 +8,9 @@ namespace AppMaui
         {
             InitializeComponent();
             this.BindingContext = new AppShellViewModel();
+
+            var rememberMe = Preferences.Default.Get<bool>(Constants.RememberMe, false);
+            StorageOptionsShell.CurrentItem = rememberMe ? HomeViewItem : LoginViewItem;
         }
     }
 }

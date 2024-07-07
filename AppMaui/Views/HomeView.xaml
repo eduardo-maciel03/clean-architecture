@@ -9,6 +9,9 @@
              Title="Página Principal">
     <VerticalStackLayout HorizontalOptions="Center"
                          Margin="20">
+        <Label Text="{Binding Username, StringFormat='Olá, {0:F0}'}"
+               HorizontalTextAlignment="Center"/>
+
         <Label 
             Text="Aplicação usando MVVM com Clean Architecture, consumindo API CRUD SQL Server"
             HorizontalTextAlignment="Center"/>

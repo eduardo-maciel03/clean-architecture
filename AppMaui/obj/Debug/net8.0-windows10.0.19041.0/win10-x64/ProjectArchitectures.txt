@@ -1,8 +1,0 @@
-D:\Projetos\AppMaui\AppCore\AppCore.csproj;neutral
-D:\Projetos\AppMaui\AppCore\AppCore.csproj;neutral
-D:\Projetos\AppMaui\AppCore\AppCore.csproj;neutral
-D:\Projetos\AppMaui\AppCore\AppCore.csproj;neutral
-D:\Projetos\AppMaui\AppMaui\AppMaui.csproj;x64
-D:\Projetos\AppMaui\AppUseCases\AppUseCases.csproj;neutral
-D:\Projetos\AppMaui\AppUseCases\AppUseCases.csproj;neutral
-D:\Projetos\AppMaui\Plugins\Plugins.DataStore.API\Plugins.DataStore.API.csproj;neutral
